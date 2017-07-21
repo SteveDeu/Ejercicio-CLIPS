@@ -1,0 +1,2 @@
+# Ejercicio-CLIPS
+Ejercicio CLIPS
